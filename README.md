@@ -478,13 +478,39 @@ const result = await client.callTool("example-tool", {
 ## Documentation
 
 - [Model Context Protocol documentation](https://modelcontextprotocol.io)
-- [MCP Specification](https://spec.modelcontextprotocol.io)
-- [Example Servers](https://github.com/modelcontextprotocol/servers)
+- [MCP Specification](https://modelcontextprotocol.io/specification)
+- [Example Servers](https://github.com/modelcontextprotocol/examples)
+- [Knowledge Base](https://github.com/deus-h/mcp-knowledge) - Comprehensive development resources
+
+## Knowledge Base
+
+The MCP TypeScript SDK maintains a dedicated [Knowledge Base](https://github.com/deus-h/mcp-knowledge) repository that provides:
+
+- Detailed implementation guides
+- Best practices and patterns
+- Performance optimization strategies
+- Security guidelines
+- Testing methodologies
+- Integration examples
+- Maintenance procedures
+
+The knowledge base is version-controlled and continuously updated to reflect the latest SDK developments. Each section includes practical examples and technical specifications.
+
+### Key Resources
+
+- [Implementation Guides](https://github.com/deus-h/mcp-knowledge/tree/main/implementation)
+- [Best Practices](https://github.com/deus-h/mcp-knowledge/tree/main/best-practices)
+- [Security Documentation](https://github.com/deus-h/mcp-knowledge/tree/main/security)
+- [Performance Guide](https://github.com/deus-h/mcp-knowledge/tree/main/performance)
+- [Testing Guide](https://github.com/deus-h/mcp-knowledge/tree/main/testing)
+- [Maintenance Guidelines](https://github.com/deus-h/mcp-knowledge/tree/main/maintenance)
 
 ## Contributing
 
 Issues and pull requests are welcome on GitHub at https://github.com/modelcontextprotocol/typescript-sdk.
 
+Please refer to our [Knowledge Base Contributing Guide](https://github.com/deus-h/mcp-knowledge/blob/main/CONTRIBUTING.md) for detailed contribution guidelines.
+
 ## License
 
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
